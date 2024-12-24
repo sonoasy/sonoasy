@@ -8,5 +8,5 @@
 - 🎨 My hobby is oil-pastel drawing and I also interested in pixel arts and interactive media arts. 
 - 🏆 Awards
   - E-PPER Algorithm Competition Contest Excellence prize (2022)
-  - Convergence Research Vitalization Idea Contest 2nd place( 2021)
+  - Convergence Research Vitalization Idea Contest 2nd place (2021)
   - SW Entrepreneurship Competition Contest 4th place (2021) 
