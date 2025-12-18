@@ -12,3 +12,4 @@
   - E-PPER Algorithm Competition Contest Excellence prize (2022)
   - Convergence Research Vitalization Idea Contest 2nd place (2021)
   - SW Entrepreneurship Competition Contest 4th place (2021) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/aseoyeon/)
