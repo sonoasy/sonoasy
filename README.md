@@ -18,8 +18,8 @@
 - Engineer Information Security (정보보안기사) - 2026.08
 - Engineer Information Processing (정보처리기사) - 2024.09
 - Linux Master Level 2 - 2024.10
-- SQL Developer (SQLD) - 2024.03
-- PCCP Level 3 - 2024.02
+- SQL Developer (SQLD) - 2026.03
+- PCCP Level 3 - 2026.02
 - TOEIC Speaking AL - 2025.08
 
 ## 🏆 Awards
