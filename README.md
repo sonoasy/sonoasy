@@ -2,15 +2,40 @@
 
 ## Hi there! I'm Seoyeon Ahn.  
 
-- 🎓 B.S. Computer Science and Engineering at Ewha Womans University.
-- 💛 I’m interested in Embedded Systems & IoT and game development. 
-- 📚 I like learning something new and sharing knowledge with others.
-- 🌱 I’ve learned Embedded Systems at Samsung Software Academy For Youth 12th. 
-- 🎨 My hobby is oil-pastel drawing and I am also interested in pixel arts and interactive media arts.
-- 🍉 Recently, I'm learning Three.js and Blender. 
-- 🏆 Awards
-  - E-PPER Algorithm Competition Contest Excellence prize (2022)
-  - Convergence Research Vitalization Idea Contest 2nd place (2021)
-  - SW Entrepreneurship Competition Contest 4th place (2021)
+## 👋 About Me
+
+- 🎓 B.S. in Computer Science & Engineering, Ewha Womans University
+- 💻 Interested in **System Software, Embedded Systems, Infrastructure, and C/C++**
+- 🔍 I enjoy analyzing problems through logs and experiments and improving system reliability and performance.
+- 🌱 Always learning new technologies and turning them into hands-on projects.
+
+## 🛠 Experience & Education
+
+- 💼 Linux-based OS Testing & Validation
+- 🌱 Samsung Software Academy For Youth (SSAFY) 12th — Embedded Track
+- 🚗 SSAFY Race Speedmap — **1st Place**
+- 🚙 Hyundai Motor Group **H-Mobility Class**
+
+## 📜 Certifications
+
+- 🔐 Engineer Information Security (정보보안기사)
+- 💻 Engineer Information Processing (정보처리기사)
+- 🐧 Linux Master Level 2
+- 🗄️ SQL Developer (SQLD)
+- 🧩 PCCP Level 3
+- 🗣️ TOEIC Speaking AL
+
+## 🏆 Awards
+
+- 🥇 SSAFY Race Speedmap — **1st Place**
+- 🏅 E-PPER Algorithm Competition — Excellence Prize
+- 🥈 Convergence Research Vitalization Idea Contest — 2nd Place
+- 🏅 SW Entrepreneurship Competition — 4th Place
+
+## 🎨 Interests
+
+- 🎨 Oil-pastel Drawing & Pixel Art
+- 🎮 Game Development & Interactive Media
+- 🧊 Three.js & Blender
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aseoyeon)](https://solved.ac/aseoyeon/)
