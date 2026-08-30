@@ -5,8 +5,8 @@
 ## 👋 About Me
 
 - 🎓 B.S. in Computer Science & Engineering, Ewha Womans University
-- 💻 Interested in **System Software, Embedded Systems, Infrastructure, and C/C++**
-- 🌱 Always learning new technologies and turning them into hands-on projects.
+- 💻 Interested in System Software, Embedded Systems and Infrastructure
+- 🌱 Always learning new technologies and turning them into hands-on projects
 
 ## 🛠 Education
 
