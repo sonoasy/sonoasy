@@ -11,16 +11,16 @@
 ## 🛠 Education
 
 - Samsung Software Academy For Youth (SSAFY) 12th — Embedded Track
-- Hyundai Motor Group H-Mobility Class - Robotics Trcack 
+- Hyundai Motor Group H-Mobility Class - Robotics Track 
 
 ## 📜 Certifications
 
-- Engineer Information Security (정보보안기사)
-- Engineer Information Processing (정보처리기사)
-- Linux Master Level 2
-- SQL Developer (SQLD)
-- PCCP Level 3
-- TOEIC Speaking AL
+- Engineer Information Security (정보보안기사) - 2026.08
+- Engineer Information Processing (정보처리기사) - 2024.09
+- Linux Master Level 2 - 2024.10
+- SQL Developer (SQLD) - 2024.03
+- PCCP Level 3 - 2024.02
+- TOEIC Speaking AL - 2025.08
 
 ## 🏆 Awards
 
