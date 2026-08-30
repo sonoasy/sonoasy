@@ -6,15 +6,12 @@
 
 - 🎓 B.S. in Computer Science & Engineering, Ewha Womans University
 - 💻 Interested in **System Software, Embedded Systems, Infrastructure, and C/C++**
-- 🔍 I enjoy analyzing problems through logs and experiments and improving system reliability and performance.
 - 🌱 Always learning new technologies and turning them into hands-on projects.
 
-## 🛠 Experience & Education
+## 🛠 Education
 
-- 💼 Linux-based OS Testing & Validation
 - 🌱 Samsung Software Academy For Youth (SSAFY) 12th — Embedded Track
-- 🚗 SSAFY Race Speedmap — **1st Place**
-- 🚙 Hyundai Motor Group **H-Mobility Class**
+- 🚙 Hyundai Motor Group H-Mobility Class - Robotics Trcack 
 
 ## 📜 Certifications
 
@@ -27,7 +24,7 @@
 
 ## 🏆 Awards
 
-- 🥇 SSAFY Race Speedmap — **1st Place**
+- 🥇 SSAFY Race Speedmap — 1st Place
 - 🏅 E-PPER Algorithm Competition — Excellence Prize
 - 🥈 Convergence Research Vitalization Idea Contest — 2nd Place
 - 🏅 SW Entrepreneurship Competition — 4th Place
